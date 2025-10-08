@@ -85,6 +85,10 @@ public static void printSapaSize(){
 		Scanner input = new Scanner(System.in); 
 		System.out.print("How many guest are you coming for your party? ");
 		int guest = input.nextInt();
+		if(guest < 4){
+		System.out.print("you entered wrong, it is less than the requirement!");
+		printSapaSize();
+		}
 
 		int box1 = guest / 4;
 		if(box1 % guest != 0){
@@ -123,6 +127,11 @@ public static void printSmallMoney(){
 		Scanner input = new Scanner(System.in); 
 		System.out.print("How many guest are you inviting? ");
 		int guest = input.nextInt();
+		if(guest < 6){
+		System.out.print("you entered wrong, it is less than the requirement!");
+		printSmallMoney();
+		}
+
 
 		int box1 = guest / 6;
 		if(box1 % guest != 0){
@@ -163,6 +172,11 @@ public static void printBigBoy(){
 		Scanner input = new Scanner(System.in); 
 		System.out.print("How many guest are you inviting? ");
 		int guest = input.nextInt();
+		if(guest < 8){
+		System.out.print("you entered wrong, it is less than the requirement!");
+		printBigBoy();
+		}
+
 
 		int box1 = guest / 8;
 		if(box1 % guest != 0){
@@ -201,6 +215,11 @@ public static void printOdogwu(){
 		Scanner input = new Scanner(System.in); 
 		System.out.print("How many guest are you inviting? ");
 		int guest = input.nextInt();
+		if(guest < 12){
+		System.out.print("you entered wrong, it is less than the requirement!");
+		printOdogwu();
+		}
+
 
 		int box1 = guest / 12;
 		if(box1 % guest != 0){
