@@ -1,0 +1,122 @@
+1️⃣ Factors / Divisors
+
+Write a program to print all factors of a given number.
+
+Find the sum of all factors of a number.
+
+Find the count of all factors of a number.
+
+Check if a number is a perfect number (sum of its proper factors equals the number).
+
+Check if a number is prime using factor logic.
+
+2️⃣ Prime Factorization
+
+Write a program to print prime factors of a number (like you did with divisor).
+
+Find the highest prime factor of a number.
+
+Count how many times each prime factor occurs (like 12 → 2² × 3¹).
+
+Check if a number is a power of a prime.
+
+3️⃣ LCM & GCD (Multiples / Divisors)
+
+Find the LCM of two numbers.
+
+Find the LCM of an array of numbers (you already worked on this).
+
+Find the GCD of two numbers using the Euclidean algorithm.
+
+Find the GCD of an array of numbers.
+
+Write a program to check if two numbers are co-prime (GCD = 1).
+
+4️⃣ Special Number Tasks
+
+Check if a number is a perfect square using factor logic.
+
+Check if a number is a triangular number (sum of first n natural numbers).
+
+Check if a number is abundant, deficient, or perfect using sum of factors.
+
+List all numbers less than N that are prime.
+
+List all numbers less than N that are perfect numbers.
+
+5️⃣ Mixed Practice Challenges
+
+Print the smallest and largest factor of a number.
+
+Print all numbers between 1 and N that are divisible by X.
+
+Find the LCM and GCD of two numbers simultaneously.
+
+Check if a number can be expressed as a product of two primes.
+
+Given a number, find the sum of all numbers that divide it evenly.
+
+💡 Tip: Start with small numbers (like <50) for testing, so you can see patterns in factors, multiples, LCM, and GCD.
+
+
+
+
+1️⃣ Advanced Factor / Divisor Questions
+
+Find all common factors of two or more numbers.
+
+Find the greatest common factor (GCF) of an array without using GCD function.
+
+Find all numbers that are factors of two given numbers.
+
+Count how many numbers between 1 and N are factors of at least one number in an array.
+
+Find the product of all factors of a number.
+
+
+
+
+Prime Number Related
+
+Check if a number is a twin prime (both n and n+2 are prime).
+
+Generate all prime numbers less than N using Sieve of Eratosthenes.
+
+Check if a number is a prime power (like 8 = 2³, 27 = 3³).
+
+
+3️⃣ LCM / GCD Extensions
+
+Find LCM and GCD simultaneously of two or more numbers.
+
+Find numbers where LCM × GCD = product of numbers (property check).
+
+Find the number of multiples of X that are divisible by all numbers in an array.
+
+Check if two numbers are co-prime or form a co-prime pair.
+
+Solve LCM puzzles, e.g., “smallest number divisible by 3, 4, 5, 6.”
+
+
+Check if a number is divisible by sum of its digits (Harshad/Niven number).
+
+Check if a number is divisible by product of its digits.
+
+Count how many numbers between 1 and N are divisible by exactly 2 numbers from an array.
+
+Find numbers where sum of all divisors is odd or even.
+
+Find amicable numbers (two numbers where sum of proper divisors of one = the other).
+
+
+5️⃣ Factorization & Multiples Puzzles
+
+Factorize a number into prime powers and represent as exponent form (e.g., 12 → 2² × 3¹).
+
+Given a set of numbers, find the smallest number divisible by exactly some of them.
+
+Find numbers that are both perfect squares and perfect cubes.
+
+For a number, print all pairs of factors (a × b = number).
+
+Find numbers less than N whose sum of factors is a prime number.
